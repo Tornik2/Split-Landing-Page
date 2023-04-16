@@ -39,14 +39,14 @@ body {
 
 .right {
     background-image: url('soccer.webp');
-    background-color: aqua;
+    background-color: rgb(16, 214, 26);
 }
 
 
 button {
     font-family: 'Chivo Mono', monospace;
     border: 3px white solid;
-    background-color: transparent;
+    background-color: rgba(0,0,0,0.3);
     padding: 0.7em 1.7em;
     font-size: 1.2em;
     font-weight: 600;
@@ -59,11 +59,11 @@ button {
 }
 
 .basketball-btn:hover {
-    background-color: rgba(61, 82, 53, 0.8);
+    background-color: rgba(61, 82, 53, 0.9);
 }
 
 .football-btn:hover {
-    background-color: rgba(25, 27, 24, 0.8);
+    background-color: rgba(25, 27, 24, 0.9);
 }
 
 .title {
